@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krish Upadhyay</h1>
+<h1 align="center">Hello , I'm Krish Upadhyay</h1>
 
 <h3 align="center">
 Full Stack Developer • Software Engineer • Problem Solver
@@ -9,53 +9,50 @@ I'm a Computer Science undergraduate passionate about building software that sol
 </p>
 
 <p align="center">
-<a href="https://github.com/Krish-Upadhyayy">
-<img src="https://komarev.com/ghpvc/?username=Krish-Upadhyayy&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=Krish-Upadhyayy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science Student (2025–2029)
+🎓 **B.Tech Computer Science Student** (2025–2029)
 
-💻 Aspiring Full Stack Software Developer
+💻 Aspiring **Full Stack Software Developer**
 
-🌱 Currently learning
-
-- Advanced JavaScript
+🌱 **Currently Learning**
 - React.js
 - Backend Development
+- Advanced JavaScript
 - System Design Fundamentals
 
-🧠 Practicing Data Structures & Algorithms daily
+🧠 Practicing **Data Structures & Algorithms** daily.
 
-🎯 Goal: Secure a Software Engineering Internship and build impactful software.
+🎯 Goal: **Build impactful software and secure a Software Engineering Internship.**
 
 ---
 
 # 💻 Tech Stack
 
-## Programming Languages
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
 </p>
 
-## Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-## Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -66,91 +63,67 @@ I'm a Computer Science undergraduate passionate about building software that sol
 # 📌 Featured Projects
 
 ## 🔍 GitHub User Explorer
+Search GitHub users using the GitHub REST API with repository sorting, language insights, and profile statistics.
 
-Search GitHub users using the GitHub REST API and explore repositories with sorting, language insights, and profile statistics.
-
-**Tech Stack**
-
-- HTML
-- CSS
-- JavaScript
-- REST API
+**Tech Stack:** HTML • CSS • JavaScript • REST API
 
 ---
 
-## 🌦 Weather Application
+## 🌦 Weather App
+Responsive weather dashboard with real-time weather data, API integration, loading states, and error handling.
 
-Responsive weather dashboard with real-time weather data, clean UI, loading states, and error handling.
-
-**Tech Stack**
-
-- HTML
-- CSS
-- JavaScript
-- API Integration
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
 ## 🏧 ATM Management System
+Console-based ATM simulation featuring authentication, deposits, withdrawals, mini statements, PIN change, and persistent file handling.
 
-Console-based ATM simulation featuring authentication, balance inquiry, withdrawal, deposit, mini statement, PIN change, and persistent file handling.
-
-**Tech Stack**
-
-- C
-- File Handling
+**Tech Stack:** C • File Handling
 
 ---
 
 ## 🧮 Nova Calculator
+Modern responsive calculator with calculation history and clean UI.
 
-Modern calculator with clean UI, responsive layout, and calculation history.
-
-**Tech Stack**
-
-- HTML
-- CSS
-- JavaScript
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
 ## 🎉 Event Horizon
+Responsive event management landing page with engaging UI and optimized performance.
 
-Responsive event management landing page focused on performance and engaging user experience.
-
-**Tech Stack**
-
-- HTML
-- CSS
-- JavaScript
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krish-Upadhyayy&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Upadhyayy&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Krish-Upadhyayy&theme=github-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Upadhyayy&theme=github-compact&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
+
+# 🏆 Achievements & Certifications
 
 🏅 IBM Front-End Developer Certification
 
@@ -162,63 +135,52 @@ Responsive event management landing page focused on performance and engaging use
 
 ---
 
-# 📚 Currently Working On
+# 🌱 Currently Working On
 
 - 🚀 Full Stack Development
 - ⚛️ React.js
 - 🌐 REST APIs
 - 📊 SQL & Database Design
 - 💡 Advanced JavaScript
-- 📦 Building production-ready projects
+- 📦 Production-ready Projects
 
 ---
 
-# 📊 Coding Profiles
+# 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://leetcode.com/u/Krish_Upadhyay">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="mailto:krishupadhyaysdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/krishupadhyay">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.linkedin.com/in/krish-upadhyayy">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Krish-Upadhyayy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Krish_Upadhyay">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/Krish_Upadhyay">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
-
-📧 **Email**
-
-krishupadhyaysdev@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/krish-upadhyayy
-
-💻 **GitHub**
-
-https://github.com/Krish-Upadhyayy
-
----
-
 # 💡 Developer Philosophy
 
-> "Every project is an opportunity to learn something new. I believe consistent learning, clean code, and thoughtful problem-solving are the foundation of becoming a great software engineer."
+> *"Every project is an opportunity to learn something new. I believe consistent learning, clean code, and thoughtful problem-solving are the foundation of becoming a great software engineer."*
 
 ---
 
 <p align="center">
-
-Thanks for visiting my profile! ⭐
-
+⭐ Thanks for visiting my profile! <br><br>
 If you like my work, consider exploring my repositories and connecting with me.
-
 </p>
