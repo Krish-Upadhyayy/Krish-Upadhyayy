@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Krish Upadhyay Banner" width="100%">
+</p>
+
 <h1 align="center">Hello , I'm Krish Upadhyay</h1>
 
 <h3 align="center">
@@ -32,6 +36,12 @@ I'm a Computer Science undergraduate passionate about building software that sol
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Krish-Upadhyayy&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -62,12 +72,11 @@ I'm a Computer Science undergraduate passionate about building software that sol
 
 # 📌 Featured Projects
 
-## 🔍 GitHub User Explorer
-Search GitHub users using the GitHub REST API with repository sorting, language insights, and profile statistics.
+### 🔍 GitHub User Explorer
 
-**Tech Stack:** HTML • CSS • JavaScript • REST API
+⭐ Search GitHub profiles using the GitHub REST API with repository insights, language statistics, and responsive UI.
 
----
+**Tech:** HTML • CSS • JavaScript • REST API
 
 ## 🌦 Weather App
 Responsive weather dashboard with real-time weather data, API integration, loading states, and error handling.
@@ -181,6 +190,7 @@ Responsive event management landing page with engaging UI and optimized performa
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Krish-Upadhyayy&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 ⭐ Thanks for visiting my profile! <br><br>
 If you like my work, consider exploring my repositories and connecting with me.
 </p>
