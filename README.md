@@ -71,6 +71,7 @@ I'm a Computer Science undergraduate passionate about building software that sol
 ⭐ Search GitHub profiles using the GitHub REST API with repository insights, language statistics, and responsive UI.
 
 Repositary - https://github.com/Krish-Upadhyayy/Github-User-Portal
+
 Live_Demo - https://krish-github-user-explorer.netlify.app/
 
 **Tech:** HTML • CSS • JavaScript • REST API
@@ -79,6 +80,7 @@ Live_Demo - https://krish-github-user-explorer.netlify.app/
 Responsive weather dashboard with real-time weather data, API integration, loading states, and error handling.
 
 Repositary - https://github.com/Krish-Upadhyayy/Weather-Forecast
+
 Live_Demo - https://geoforecastweather.netlify.app/
 
 **Tech Stack:** HTML • CSS • JavaScript
@@ -103,6 +105,10 @@ Modern responsive calculator with calculation history and clean UI.
 
 ## 🎉 Event Horizon
 Responsive event management landing page with engaging UI and optimized performance.
+
+Repositary - https://github.com/Krish-Upadhyayy/RIFT
+
+Live_Demo - https://event-horizon-aryabhata.netlify.app/
 
 **Tech Stack:** HTML • CSS • JavaScript
 
