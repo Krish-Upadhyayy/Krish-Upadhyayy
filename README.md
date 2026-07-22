@@ -36,12 +36,6 @@ I'm a Computer Science undergraduate passionate about building software that sol
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Krish-Upadhyayy&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -76,10 +70,16 @@ I'm a Computer Science undergraduate passionate about building software that sol
 
 ⭐ Search GitHub profiles using the GitHub REST API with repository insights, language statistics, and responsive UI.
 
+Repositary - https://github.com/Krish-Upadhyayy/Github-User-Portal
+Live_Demo - https://krish-github-user-explorer.netlify.app/
+
 **Tech:** HTML • CSS • JavaScript • REST API
 
 ## 🌦 Weather App
 Responsive weather dashboard with real-time weather data, API integration, loading states, and error handling.
+
+Repositary - https://github.com/Krish-Upadhyayy/Weather-Forecast
+Live_Demo - https://geoforecastweather.netlify.app/
 
 **Tech Stack:** HTML • CSS • JavaScript
 
@@ -87,6 +87,8 @@ Responsive weather dashboard with real-time weather data, API integration, loadi
 
 ## 🏧 ATM Management System
 Console-based ATM simulation featuring authentication, deposits, withdrawals, mini statements, PIN change, and persistent file handling.
+
+Repositary - https://github.com/Krish-Upadhyayy/Bank-ATM
 
 **Tech Stack:** C • File Handling
 
@@ -188,9 +190,6 @@ Responsive event management landing page with engaging UI and optimized performa
 > *"Every project is an opportunity to learn something new. I believe consistent learning, clean code, and thoughtful problem-solving are the foundation of becoming a great software engineer."*
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krish-Upadhyayy&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 ⭐ Thanks for visiting my profile! <br><br>
 If you like my work, consider exploring my repositories and connecting with me.
 </p>
