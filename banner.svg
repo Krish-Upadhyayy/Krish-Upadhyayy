@@ -1,0 +1,87 @@
+<svg fill="none" width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#bc8cff"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+
+    <!-- Text Glow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#30363d" stroke-width="0.5" stroke-opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- Base Rectangle -->
+  <rect width="800" height="260" rx="12" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1"/>
+  <rect width="800" height="260" rx="12" fill="url(#grid)"/>
+
+  <!-- Top Decorative Accent Bar -->
+  <rect x="0" y="0" width="800" height="4" fill="url(#accentGrad)"/>
+
+  <!-- Glowing Orbs in Background -->
+  <circle cx="100" cy="60" r="80" fill="#1f6feb" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="720" cy="200" r="100" fill="#8957e5" opacity="0.12" filter="url(#glow)"/>
+
+  <!-- Terminal Header / Code Icon Graphic -->
+  <g transform="translate(60, 45)">
+    <rect x="0" y="0" width="56" height="56" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <path d="M16 20L26 28L16 36M30 36H40" stroke="url(#accentGrad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Main Name Title -->
+  <text x="135" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="#ffffff" letter-spacing="0.5">
+    KRISH UPADHYAY
+  </text>
+
+  <!-- Tagline / Role -->
+  <text x="135" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600" font-size="15" fill="url(#accentGrad)" letter-spacing="1">
+    FULL STACK DEVELOPER • CS UNDERGRADUATE • PROBLEM SOLVER
+  </text>
+
+  <!-- Subtitle Description -->
+  <text x="60" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="400" font-size="14" fill="#8b949e">
+    Building scalable web applications, mastering DSA, and crafting elegant UI experiences.
+  </text>
+
+  <!-- Tech Badges Pill Row -->
+  <g transform="translate(60, 185)">
+    <!-- Badge 1 -->
+    <rect x="0" y="0" width="85" height="28" rx="14" fill="#1f6feb" fill-opacity="0.15" stroke="#1f6feb" stroke-width="1"/>
+    <text x="42.5" y="18" font-family="monospace" font-size="12" font-weight="600" fill="#58a6ff" text-anchor="middle">React.js</text>
+
+    <!-- Badge 2 -->
+    <rect x="97" y="0" width="95" height="28" rx="14" fill="#8957e5" fill-opacity="0.15" stroke="#8957e5" stroke-width="1"/>
+    <text x="144.5" y="18" font-family="monospace" font-size="12" font-weight="600" fill="#bc8cff" text-anchor="middle">JavaScript</text>
+
+    <!-- Badge 3 -->
+    <rect x="204" y="0" width="70" height="28" rx="14" fill="#238636" fill-opacity="0.15" stroke="#238636" stroke-width="1"/>
+    <text x="239" y="18" font-family="monospace" font-size="12" font-weight="600" fill="#3fb950" text-anchor="middle">C++</text>
+
+    <!-- Badge 4 -->
+    <rect x="286" y="0" width="85" height="28" rx="14" fill="#d29922" fill-opacity="0.15" stroke="#d29922" stroke-width="1"/>
+    <text x="328.5" y="18" font-family="monospace" font-size="12" font-weight="600" fill="#e3b341" text-anchor="middle">Node.js</text>
+
+    <!-- Badge 5 -->
+    <rect x="383" y="0" width="75" height="28" rx="14" fill="#1f6feb" fill-opacity="0.15" stroke="#1f6feb" stroke-width="1"/>
+    <text x="420.5" y="18" font-family="monospace" font-size="12" font-weight="600" fill="#58a6ff" text-anchor="middle">MySQL</text>
+
+    <!-- Badge 6 -->
+    <rect x="470" y="0" width="105" height="28" rx="14" fill="#238636" fill-opacity="0.15" stroke="#238636" stroke-width="1"/>
+    <text x="522.5" y="18" font-family="monospace" font-size="12" font-weight="600" fill="#3fb950" text-anchor="middle">DSA Practice</text>
+  </g>
+</svg>
