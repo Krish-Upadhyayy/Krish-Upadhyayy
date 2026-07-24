@@ -74,8 +74,6 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### 🎨 Frontend & UI Development
@@ -200,57 +198,39 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
 
 ---
 
-## 📊 Analytics & Coding Profiles
+## 🧠 Problem Solving & Coding Statistics
 
 <div align="center">
 
-### 📈 GitHub Stats & Language Breakdown
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Upadhyayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Krish's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Upadhyayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-### 🔥 Contribution Velocity & Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Krish-Upadhyayy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krish-Upadhyayy&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-### 🧠 Problem Solving & Coding Platforms
-
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🟡 LeetCode</h4>
-      <p>Data Structures & Algorithms</p>
-      <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-      </a>
-      <br/><br/>
+    <td width="50%" align="center" valign="top">
+      <h3>🟡 LeetCode Stats</h3>
+      <p align="center">
+        <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=dark&font=Fira%20Code&ext=contest" width="100%" alt="LeetCode Performance Card" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile Link" />
+        </a>
+      </p>
       <sub>👉 <b><a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">leetcode.com/u/Krish_Upadhyay</a></b></sub>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🟢 GeeksforGeeks</h4>
-      <p>DSA Practice & Core Logic</p>
-      <a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-View_Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
-      </a>
-      <br/><br/>
+    <td width="50%" align="center" valign="top">
+      <h3>🟢 GeeksforGeeks Stats</h3>
+      <p align="center">
+        <a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">
+          <img src="https://gfg-stats-api.vercel.app/krishupadhyay" width="100%" alt="GeeksforGeeks Stats Card" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-View_Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile Link" />
+        </a>
+      </p>
       <sub>👉 <b><a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">geeksforgeeks.org/profile/krishupadhyay</a></b></sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🔴 HackerRank</h4>
-      <p>Problem Solving & Certifications</p>
-      <a href="https://www.hackerrank.com/profile/Krish_Upadhyay" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
-      </a>
-      <br/><br/>
-      <sub>👉 <b><a href="https://www.hackerrank.com/profile/Krish_Upadhyay" target="_blank">hackerrank.com/profile/Krish_Upadhyay</a></b></sub>
     </td>
   </tr>
 </table>
