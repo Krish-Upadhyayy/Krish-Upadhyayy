@@ -219,18 +219,18 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
       <sub>👉 <b><a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">leetcode.com/u/Krish_Upadhyay</a></b></sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🟢 GeeksforGeeks Stats</h3>
+      <h3>📊 Daily Coding Activity Graph</h3>
       <p align="center">
-        <a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">
-          <img src="gfg-card.svg" width="100%" alt="GeeksforGeeks Stats Card" />
+        <a href="https://github.com/Krish-Upadhyayy" target="_blank">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Upadhyayy&theme=tokyonight&hide_border=true&area=true" width="100%" alt="GitHub Daily Activity Graph" />
         </a>
       </p>
       <p align="center">
-        <a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">
-          <img src="https://img.shields.io/badge/GeeksforGeeks-View_Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile Link" />
+        <a href="https://github.com/Krish-Upadhyayy" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Daily_Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity Link" />
         </a>
       </p>
-      <sub>👉 <b><a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">geeksforgeeks.org/profile/krishupadhyay</a></b></sub>
+      <sub>👉 <b><a href="https://github.com/Krish-Upadhyayy" target="_blank">github.com/Krish-Upadhyayy</a></b></sub>
     </td>
   </tr>
 </table>
