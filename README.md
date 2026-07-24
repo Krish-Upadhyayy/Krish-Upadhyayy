@@ -80,18 +80,19 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
 
 ### 🎨 Frontend & UI Development
 <p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/DOM_Manipulation-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="DOM API" />
-  <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/DOM_Manipulation-007ACC?style=for-the-badge&logo=javascript&logoColor=white" alt="DOM API" />
+  <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=csswizardry&logoColor=white" alt="Responsive Design" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
 ### 🗄️ Databases & Backend Technologies
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/File_Handling-4A154B?style=for-the-badge&logo=c&logoColor=white" alt="File Handling" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/File_Handling-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="File Handling" />
 </p>
 
 ### 🛠️ Developer Tools & Environments
@@ -199,49 +200,53 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
 
 ---
 
-<!-- BULLETPROOF CACHED STATS & ANALYTICS -->
+## 📊 Analytics & Coding Profiles
+
 <div align="center">
 
-### 📈 GitHub Analytics & Language Breakdown
+### 📈 GitHub Stats & Language Breakdown
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Krish-Upadhyayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Krish's GitHub Stats" />
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Upadhyayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Upadhyayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Krish's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Upadhyayy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 🔥 Contribution Velocity & Streak
 <p align="center">
-  <img height="175" src="https://streak-stats.demolab.com?user=Krish-Upadhyayy&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Krish-Upadhyayy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-### 🧠 Problem Solving & Algorithmic Practice (LeetCode)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krish-Upadhyayy&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+### 📅 GitHub Contribution Matrix
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/Krish-Upadhyayy" width="100%" alt="Krish's GitHub Contribution Chart" />
+</p>
+
+### 🧠 Problem Solving & Algorithmic Platforms
 <p align="center">
   <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=dark&font=Fira%20Code&ext=contest" height="175" alt="LeetCode Card" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/krishupadhyaysdev/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/Krish_Upadhyay" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
   </a>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Card" />
+  </a>
+</p>
 
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krish-Upadhyayy&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krish-Upadhyayy/Krish-Upadhyayy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krish-Upadhyayy/Krish-Upadhyayy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krish-Upadhyayy/Krish-Upadhyayy/output/github-contribution-grid-snake-dark.svg">
-  </picture>
 </div>
 
 ---
@@ -265,6 +270,9 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
 </a>
 <a href="https://leetcode.com/u/Krish_Upadhyay">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/krishupadhyaysdev/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 <a href="https://www.hackerrank.com/profile/Krish_Upadhyay">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
