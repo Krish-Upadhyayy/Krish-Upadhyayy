@@ -232,7 +232,7 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/krishupadhyaysdev/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
   </a>
   &nbsp;
@@ -271,7 +271,7 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
 <a href="https://leetcode.com/u/Krish_Upadhyay">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/krishupadhyaysdev/">
+<a href="https://www.geeksforgeeks.org/profile/krishupadhyay">
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 <a href="https://www.hackerrank.com/profile/Krish_Upadhyay">
