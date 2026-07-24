@@ -205,32 +205,32 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🟡 LeetCode Problem Solved Stats</h3>
+      <h3>🟢 LeetCode Daily Solved Heatmap</h3>
       <p align="center">
         <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=dark&font=Fira%20Code&ext=contest" width="100%" alt="LeetCode Performance Card" />
+          <img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=emerald&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode Daily Problem Solving Heatmap" />
         </a>
       </p>
       <p align="center">
         <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile Link" />
+          <img src="https://img.shields.io/badge/LeetCode-Daily_Heatmap-22C55E?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Heatmap Link" />
         </a>
       </p>
       <sub>👉 <b><a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">leetcode.com/u/Krish_Upadhyay</a></b></sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🟢 LeetCode Daily Submissions Chart</h3>
+      <h3>📊 GitHub Daily Contribution Graph</h3>
       <p align="center">
-        <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=dark&font=Fira%20Code&ext=submission" width="100%" alt="LeetCode Daily Submissions Heatmap Chart" />
+        <a href="https://github.com/Krish-Upadhyayy" target="_blank">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Upadhyayy&theme=tokyonight&hide_border=true&area=true" width="100%" alt="GitHub Daily Contribution Graph" />
         </a>
       </p>
       <p align="center">
-        <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-Daily_Submissions-22C55E?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Submissions Link" />
+        <a href="https://github.com/Krish-Upadhyayy" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Contribution_Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contribution Link" />
         </a>
       </p>
-      <sub>👉 <b><a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">leetcode.com/u/Krish_Upadhyay</a></b></sub>
+      <sub>👉 <b><a href="https://github.com/Krish-Upadhyayy" target="_blank">github.com/Krish-Upadhyayy</a></b></sub>
     </td>
   </tr>
 </table>
