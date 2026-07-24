@@ -208,7 +208,7 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
       <h3>🟢 LeetCode Daily Solved Heatmap</h3>
       <p align="center">
         <a href="https://leetcode.com/u/Krish_Upadhyay" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=emerald&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode Daily Problem Solving Heatmap" />
+          <img src="https://leetcard.jacoblin.cool/Krish_Upadhyay?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode Daily Problem Solving Heatmap" />
         </a>
       </p>
       <p align="center">
