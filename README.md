@@ -222,7 +222,7 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
       <h3>🟢 GeeksforGeeks Stats</h3>
       <p align="center">
         <a href="https://www.geeksforgeeks.org/profile/krishupadhyay" target="_blank">
-          <img src="https://gfg-stats-api.vercel.app/krishupadhyay" width="100%" alt="GeeksforGeeks Stats Card" />
+          <img src="gfg-card.svg" width="100%" alt="GeeksforGeeks Stats Card" />
         </a>
       </p>
       <p align="center">
