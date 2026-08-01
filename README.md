@@ -159,6 +159,32 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧮 Nova Calculator</h3>
+      <p>A high-performance, aesthetically crafted web calculator application with advanced expression evaluation, custom theme modes, keyboard navigation, and interactive visual feedback for seamless calculations.</p>
+      <p><b>Key Features:</b> Real-time math evaluation, keypress bindings, dark/light glassmorphic UI & high-precision calculation logic.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-HTML5_|_CSS3_|_JavaScript_|_UI/UX-007ACC?style=flat-square" alt="Tech Stack" />
+      </p>
+      <p>
+        <a href="https://github.com/Krish-Upadhyayy/Nova-Calculator"><b>📂 GitHub Repository</b></a> • 
+        <a href="https://nova-calculatorr.netlify.app/"><b>🚀 Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Grade Calculator</h3>
+      <p>An intuitive educational web utility that empowers students to calculate subject percentages, GPA/CGPA targets, grade letter allocations, and overall academic performance metrics through a clean interactive interface.</p>
+      <p><b>Key Features:</b> Dynamic subject input fields, GPA/percentage conversion, instant performance breakdown & responsive card design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-HTML5_|_CSS3_|_JavaScript-E34F26?style=flat-square" alt="Tech Stack" />
+      </p>
+      <p>
+        <a href="https://github.com/Krish-Upadhyayy/Student-Grade-Calculator"><b>📂 GitHub Repository</b></a> • 
+        <a href="https://student-grade-calculatorr.netlify.app/"><b>🚀 Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
