@@ -43,20 +43,20 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
       <h3>🚀 Quick Facts</h3>
       <ul>
         <li>🎓 <b>Degree:</b> B.Tech in Computer Science (2025 – 2029)</li>
-        <li>💻 <b>Current Focus:</b> Full-Stack Development (React.js, Node.js, REST APIs)</li>
+        <li>💻 <b>Current Focus:</b> Full-Stack & Enterprise Systems (Java, Next.js, Python, REST APIs)</li>
         <li>🧠 <b>Algorithmic Practice:</b> Active problem solver on LeetCode & HackerRank</li>
         <li>🎯 <b>Career Goal:</b> Software Engineering Internship / Full-Stack Developer Roles</li>
-        <li>⚡ <b>Superpower:</b> Quick learner with a penchant for aesthetic UI & clean code</li>
+        <li>⚡ <b>Superpower:</b> Fast learner bridging robust backend architecture with intuitive UI</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Learning & Exploration</h3>
       <ul>
-        <li>⚛️ <b>Frontend Mastery:</b> React.js, State Management & Modern CSS</li>
-        <li>🛠️ <b>Backend & Databases:</b> Node.js, Express, MongoDB, MySQL & SQL Queries</li>
-        <li>📐 <b>System Design:</b> Modular Architecture, RESTful API Conventions</li>
-        <li>🏆 <b>Hackathons:</b> Active participant in coding hackathons (RIFT Participant)</li>
-        <li>🤝 <b>Collaboration:</b> Open to technical discussions & open-source projects</li>
+        <li>⚛️ <b>Modern Frontend:</b> Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS</li>
+        <li>🛠️ <b>Enterprise & Backend:</b> Jakarta EE, Hibernate ORM, FastAPI, Node.js & Express</li>
+        <li>🗄️ <b>Databases:</b> MySQL, MongoDB, SQLite & Relational Data Modeling</li>
+        <li>🏆 <b>Hackathons:</b> Smart India Hackathon (SIH) & RIFT Hackathon Participant</li>
+        <li>🤝 <b>Collaboration:</b> Open to technical discussions, internships & open-source projects</li>
       </ul>
     </td>
   </tr>
@@ -70,34 +70,44 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-### 🎨 Frontend & UI Development
+### 🎨 Frontend & UI Frameworks
 <p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/DOM_Manipulation-007ACC?style=for-the-badge&logo=javascript&logoColor=white" alt="DOM API" />
-  <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=csswizardry&logoColor=white" alt="Responsive Design" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
 </p>
 
-### 🗄️ Databases & Backend Technologies
+### 🗄️ Backend, Databases & Enterprise
 <p>
+  <img src="https://img.shields.io/badge/Jakarta_EE-FC2712?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta EE" />
+  <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/File_Handling-4A154B?style=for-the-badge&logo=c&logoColor=white" alt="File Handling" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### 🛠️ Developer Tools & Environments
+### 🛠️ AI, Cloud & Developer Tools
 <p>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
@@ -110,56 +120,68 @@ I am a dedicated **Computer Science Undergraduate (B.Tech 2025–2029)** passion
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 GitHub User Explorer</h3>
-      <p>A feature-rich web application built on top of the GitHub REST API that enables users to look up developer profiles, inspect repository metrics, analyze language distributions, and evaluate user statistics in an interactive dashboard UI.</p>
-      <p><b>Key Features:</b> Profile search, repository sorting, language stats breakdown, async fetch handling & responsive CSS glassmorphism layout.</p>
+      <h3>📚 Enterprise Library Management System</h3>
+      <p>A full-stack, enterprise-grade automated library system built with Java 17, Jakarta Servlets, and Hibernate ORM running on Apache Tomcat. Engineered with complete role-based workflows for Admins and Members, real-time inventory counters, and automated overdue fine calculation.</p>
+      <p><b>Key Features:</b> RBAC authentication, book catalogue with dynamic stock decrement/increment, member record tracking, automated loan/return lifecycle & overdue penalty engine.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-HTML5_|_CSS3_|_JavaScript_|_REST_API-58A6FF?style=flat-square" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/Tech-Java_17_|_Jakarta_EE_|_Hibernate_|_MySQL_|_Tomcat-ED8B00?style=flat-square" alt="Tech Stack" />
       </p>
       <p>
-        <a href="https://github.com/Krish-Upadhyayy/Github-User-Portal"><b>📂 GitHub Repository</b></a> • 
-        <a href="https://krish-github-user-explorer.netlify.app/"><b>🚀 Live Demo</b></a>
+        <a href="https://github.com/Krish-Upadhyayy/Library-management-system"><b>📂 GitHub Repository</b></a> • 
+        <a href="https://library-management-system-g6kt.onrender.com"><b>🚀 Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌦️ GeoForecast Weather Dashboard</h3>
-      <p>An intuitive, real-time weather analytics application integrating OpenWeather APIs. Features automatic location detection, detailed hourly & weekly forecasts, error states handling, and dynamic ambient theme transitions based on local weather conditions.</p>
-      <p><b>Key Features:</b> Live weather metrics, search autocomplete, error boundaries, loading animations & mobile optimization.</p>
+      <h3>👁️ Stithi AI — CCTV Compliance & Headcount Audit</h3>
+      <p>An intelligent computer vision compliance auditing system developed for the <b>Smart India Hackathon (SIH)</b> and vocational training schemes (PMKVY/NSDC). Automates classroom attendance verification and infrastructure discrepancy auditing via edge AI with zero facial biometrics.</p>
+      <p><b>Key Features:</b> YOLOv8 anonymous trainee presence estimation, DPDP Act 2023 privacy-by-design, low-bandwidth snapshot pipeline, statutory 7-day automated purge daemon & 166 automated test suites.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-HTML5_|_CSS3_|_JavaScript_|_OpenWeather_API-238636?style=flat-square" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/Tech-Python_|_FastAPI_|_YOLOv8_|_Next.js_|_Docker-009688?style=flat-square" alt="Tech Stack" />
       </p>
       <p>
-        <a href="https://github.com/Krish-Upadhyayy/Weather-Forecast"><b>📂 GitHub Repository</b></a> • 
-        <a href="https://geoforecastweather.netlify.app/"><b>🚀 Live Demo</b></a>
+        <a href="https://github.com/Krish-Upadhyayy/Stithi-Ai"><b>📂 GitHub Repository</b></a> • 
+        <a href="https://github.com/Krish-Upadhyayy/EYE-C"><b>👁️ Edge Pipeline (EYE-C)</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏧 Bank ATM Simulation System</h3>
-      <p>A robust console application written in C simulating full banking ATM operations. Demonstrates structural programming, file-system data persistence, state security, and error handling for critical transactions.</p>
-      <p><b>Key Features:</b> User PIN auth, balance inquiries, funds deposit/withdrawal, mini-statement generation & persistent file IO.</p>
+      <h3>🤖 ResumeAI — AI ATS Resume Builder & Analyzer</h3>
+      <p>An AI-powered career companion platform designed to build ATS-optimized resumes and score them against industry benchmarks. Integrates Google Gemini AI for smart bullet improvement, professional summary drafting, and real-time job description keyword match analysis.</p>
+      <p><b>Key Features:</b> Interactive drag-and-drop resume builder (@dnd-kit), ATS score analyzer (0–100), Gemini AI suggestions, PDF/DOCX resume parser, version history & instant PDF export.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-C_Language_|_File_IO_|_Data_Structures-8957E5?style=flat-square" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/Tech-React_18_|_Node.js_|_Express_|_MongoDB_|_Gemini_AI-58A6FF?style=flat-square" alt="Tech Stack" />
       </p>
       <p>
-        <a href="https://github.com/Krish-Upadhyayy/Bank-ATM"><b>📂 GitHub Repository</b></a>
+        <a href="https://github.com/Krish-Upadhyayy/ATS_Resume"><b>📂 GitHub Repository</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎉 Event Horizon (RIFT Hackathon)</h3>
-      <p>A modern event discovery and landing interface developed during the 24-Hour RIFT Hackathon. Built for high performance, smooth micro-interactions, dark mode elegance, and intuitive event registration flows.</p>
-      <p><b>Key Features:</b> Animated countdowns, interactive event schedule, glassmorphic hero sections & fast page speed scores.</p>
+      <h3>📝 Task Tracker — Next.js Operations Dashboard</h3>
+      <p>A modern, responsive task management dashboard built with Next.js 16 App Router and React 19. Features real-time productivity analytics, multi-parameter search/filtering, and persistent client storage with JSON import/export functionality.</p>
+      <p><b>Key Features:</b> Full task CRUD, dynamic completion rate progress analytics, priority & category filtering, local storage persistence with SSR hydration, and JSON data backup.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-HTML5_|_CSS3_|_JavaScript_|_UI/UX-D29922?style=flat-square" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/Tech-Next.js_16_|_React_19_|_TypeScript_|_Tailwind_CSS-3178C6?style=flat-square" alt="Tech Stack" />
       </p>
       <p>
-        <a href="https://github.com/Krish-Upadhyayy/RIFT"><b>📂 GitHub Repository</b></a> • 
-        <a href="https://event-horizon-aryabhata.netlify.app/"><b>🚀 Live Demo</b></a>
+        <a href="https://github.com/Krish-Upadhyayy/TODO-APP"><b>📂 GitHub Repository</b></a>
       </p>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>📂 View More Projects & Hackathon Repositories</b></summary>
+<br/>
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🔍 GitHub User Explorer** | Interactive dashboard evaluating GitHub developer metrics, repository stats, and language distributions. | HTML5, CSS3, JavaScript, REST API | [Repository](https://github.com/Krish-Upadhyayy/Github-User-Portal) • [Live Demo](https://krish-github-user-explorer.netlify.app/) |
+| **🌦️ GeoForecast Weather** | Real-time weather dashboard with automatic geolocation, hourly/weekly forecasts, and dynamic ambient themes. | HTML5, CSS3, JavaScript, WeatherAPI | [Repository](https://github.com/Krish-Upadhyayy/Weather-Forecast) • [Live Demo](https://geoforecastweather.netlify.app/) |
+| **🏧 Bank ATM Simulator** | Console ATM simulation demonstrating robust C programming, file-system persistence, and PIN authentication. | C, File I/O, Data Structures | [Repository](https://github.com/Krish-Upadhyayy/Bank-ATM) |
+| **🎉 Event Horizon** | Hackathon-built high-performance event discovery interface with micro-interactions and dark glassmorphic UI. | HTML5, CSS3, JavaScript, UI/UX | [Repository](https://github.com/Krish-Upadhyayy/RIFT) • [Live Demo](https://event-horizon-aryabhata.netlify.app/) |
+
+</details>
 
 ---
 
